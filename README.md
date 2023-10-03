@@ -1,4 +1,4 @@
-# Sistema de Cálculo de Médias de Alunos
+﻿# Sistema de Cálculo de Médias de Alunos
 
 Este é um programa em C desenvolvido como parte de um trabalho para a disciplina de Programação Estruturada. O programa permite calcular a média das notas de 5 alunos em 5 provas diferentes, determinando a situação de cada aluno com base nas notas e calculando a média da classe.
 
@@ -37,16 +37,6 @@ Antes de executar o programa, você precisa ter o GCC (GNU Compiler Collection) 
 ## Contribuição
  
 Se você deseja contribuir para este projeto, fique à vontade para abrir uma "pull request". Sua contribuição será bem-vinda!
-
-Licença
-Este projeto está licenciado sob a Licença MIT.
-
-
-Lembre-se de substituir `seu-usuario` e `seu-repositorio` pelo seu nome de usuário e nome de repositório no GitHub.
-
-Além disso, é importante criar um arquivo `LICENSE` no seu repositório com os termos da licença que desejar usar, como a Licença MIT mencionada no exemplo acima.
-
-Isso deve ajudar os outros desenvolvedores a entenderem como usar seu código e contribuir para ele, caso desejem.
 
 
 ## Contato
